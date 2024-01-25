@@ -21,7 +21,6 @@ export default function Assigment() {
           <div className=" flex justify-between">
             <h2 className="ml-4 mt-4">Россия</h2>
             <h2 className="  mr-[520px] mt-4">RU</h2>
-            <h2 className="  mr-[520px] mt-4">RU</h2>
           </div>
         </div>
       </div>
